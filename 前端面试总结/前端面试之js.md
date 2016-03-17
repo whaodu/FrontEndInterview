@@ -45,20 +45,15 @@ html对象：Document，Element，Attribute，Event
 [深入浅出JavaScript内存泄露](http://developer.51cto.com/art/201007/212040_all.htm)
 [javascript内存泄露的几种情况](http://www.cnblogs.com/sprying/archive/2013/05/31/3109517.html)
 18. 如何判断js类型
-
+[JavaScript中判断对象类型的种种方法](http://www.cnblogs.com/flyjs/archive/2012/02/20/2360504.html)
 19. 按值传递和按引用传递
-
+[JavaScript中值的访问与参数传递问题](http://fehacker.com/2014/12/19/call-by-sharing/)
 20. 重排和重绘
-
+[浏览器渲染页面的过程，以及重绘和重排](http://blog.csdn.net/lihongxun945/article/details/37830667)
 21. 严格模式
-
-22. ajax的原生实现
-
-23. 简述document.write和 innerHTML的区别。  
+[是时候使用JavaScript严谨模式(Strict Mode)提升团队开发效率](http://www.alloyteam.com/2012/06/it-is-time-to-use-the-javascript-strict-mode-strict-mode-to-enhance-the-efficiency-of-team-development/)
+22. 简述document.write和 innerHTML的区别。  
 document.write只能重绘整个页面,
 innerHTML可以重绘页面的一部分。
-24. js异步编程的方法  
-回调函数，这是异步编程最基本的方法。
-事件监听，另一种思路是采用事件驱动模式。任务的执行不取决于代码的顺序，而取决于某个事件是否发生。
-发布/订阅，上一节的"事件"，完全可以理解成"信号"。
-Promises对象，Promises 对象是CommonJS 工作组提出的一种规范，目的是为异步编程提供统一接口。
+23. extend
+[extend 方法在js框架中的设计](http://www.cnblogs.com/yupeng/archive/2012/03/11/2389997.html)
