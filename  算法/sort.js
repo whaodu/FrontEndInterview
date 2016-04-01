@@ -28,37 +28,20 @@
     // 1.设置初始值x=0,y=n-1,令keyValuey=Arr[0],2.从Arr[y]开始向前遍历，如果keyValue>Arr[y],则将Arr[i]和Arr[y]交换，3.从Arr[x]向后遍历，当keyValue<Arr[x]时；进行Arr[i]和Arr[y]交换，4.结束条件为x==y;
     this.quickSort = function(Arr) {
       if (Arr.length <= 1) {
-        return Arr;
-      }
-      var rightIndex = 0;
-      var leftIndex = Arr.length - 1;
-      var keyValue = Arr[0];
-      var dir = false;
-      var temp;
-      while (rightIndex !== leftIndex) {
-        if (!dir) {
-          if (keyValue > Arr[leftIndex]) {
-            temp = Arr[leftIndex];
-            Arr[leftIndex] = Arr[rightIndex];
-            Arr[rightIndex] = temp;
-            dir = true;
-          } else {
-            leftIndex--;
-          }
-
-        } else if (dir) {
-          if (keyValue < Arr[rightIndex]) {
-            temp = Arr[leftIndex];
-            Arr[leftIndex] = Arr[rightIndex];
-            Arr[rightIndex] = temp;
-            dir = false;
-          } else {
-            rightIndex++;
-          }
-        }
-      }
-      Arr = [].concat(this.quickSort(Arr.slice(0, leftIndex)), Arr[leftIndex], this.quickSort(Arr.slice(rightIndex + 1)));
-      return Arr;
+    return Arr;
+  }
+  var pivotIndex = Math.floor(Arr.length / 2);
+  var pivot = Arr.splice(pivotIndex,1);
+  var leftArr = [];
+  var rightArr = [];
+  for (var i = 0; i < Arr.length; i++) {
+    if (Arr[i] < pivot) {
+      leftArr.push(Arr[i]);
+    } else {
+      rightArr.push(Arr[i]);
+    }
+  }
+  return quickSort(leftArr).concat(pivot, quickSort(rightArr));
       //quickSortOnce结束
     }; //quick结束
     this.shellSort = function(Arr) {
