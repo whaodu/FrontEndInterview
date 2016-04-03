@@ -2,6 +2,27 @@
   'use strict';
 
   function Sort() {
+    //归并算法
+    // 留
+    this.mergeSort=function(){
+        var merge=function(left,right){
+            var final=[];
+            while(left.length&&right.length){
+                final.push(left[0]<=right[0]?left.shift():right.shift());
+            }
+            return final.concat(left.concat(right));
+        };
+
+        var len=this.length;
+        if(len<2){
+            return this;
+        }
+
+        var mid=parseInt(len/2),
+            _left=this.slice(0,mid),
+            _right=this.slice(mid);
+        return merge(_left.mergeSort(),_right.mergeSort());
+    };
     // 起泡排序,
     this.bibbleSort = function(Arr) {
       for (var i = Arr.length - 1; i >= 0; i--) {
@@ -28,33 +49,33 @@
     // 1.设置初始值x=0,y=n-1,令keyValuey=Arr[0],2.从Arr[y]开始向前遍历，如果keyValue>Arr[y],则将Arr[i]和Arr[y]交换，3.从Arr[x]向后遍历，当keyValue<Arr[x]时；进行Arr[i]和Arr[y]交换，4.结束条件为x==y;
     this.quickSort = function(Arr) {
       if (Arr.length <= 1) {
-    return Arr;
-  }
-  var pivotIndex = Math.floor(Arr.length / 2);
-  var pivot = Arr.splice(pivotIndex,1);
-  var leftArr = [];
-  var rightArr = [];
-  for (var i = 0; i < Arr.length; i++) {
-    if (Arr[i] < pivot) {
-      leftArr.push(Arr[i]);
-    } else {
-      rightArr.push(Arr[i]);
-    }
-  }
-  return quickSort(leftArr).concat(pivot, quickSort(rightArr));
+        return Arr;
+      }
+      var pivotIndex = Math.floor(Arr.length / 2);
+      var pivot = Arr.splice(pivotIndex, 1);
+      var leftArr = [];
+      var rightArr = [];
+      for (var i = 0; i < Arr.length; i++) {
+        if (Arr[i] < pivot) {
+          leftArr.push(Arr[i]);
+        } else {
+          rightArr.push(Arr[i]);
+        }
+      }
+      return quickSort(leftArr).concat(pivot, quickSort(rightArr));
       //quickSortOnce结束
     }; //quick结束
     this.shellSort = function(Arr) {
-      var gap = Math.floor(Arr.length/2);
+      var gap = Math.floor(Arr.length / 2);
       while (gap > 0) {
         for (var i = 0; i < Arr.length; i++) {
           var temp = Arr[i];
-          for (var j = i; j>=gap&&Arr[j-gap]>temp;j-=gap) {
-            Arr[j]=Arr[j-gap];
+          for (var j = i; j >= gap && Arr[j - gap] > temp; j -= gap) {
+            Arr[j] = Arr[j - gap];
           }
-          Arr[j]=temp;
+          Arr[j] = temp;
         }
-        gap = Math.floor(gap/2);
+        gap = Math.floor(gap / 2);
       }
       return Arr;
     }; //shell结束
@@ -66,17 +87,17 @@
       var temp;
 
       for (var i = 1; i < Arr.length; i++) { //从1开始，第一个不用排序
-        temp = Arr[i];//用temp缓存待插入的元素
+        temp = Arr[i]; //用temp缓存待插入的元素
         for (var j = i; j >= 0; j--) {
           if (temp < Arr[j]) {
-            Arr[j+1]=Arr[j];//当Arr[i]<Arr[j],则将Arr[j]往后移一位
+            Arr[j + 1] = Arr[j]; //当Arr[i]<Arr[j],则将Arr[j]往后移一位
           } else if (temp > Arr[j]) {
             break; //第一种：如果找到了一个比Arr[i]小的Arr[j],则退出循环，结束
           }
           //第二种，当j循环，结束
         }
         //结束j循环，将temp中缓存的待插入元素插入
-        Arr[j+1] = temp;
+        Arr[j + 1] = temp;
       }
 
     }; //insert结束
