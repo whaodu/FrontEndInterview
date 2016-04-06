@@ -41,8 +41,8 @@
 - [CSS](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/CSS.md)
 - [HTML](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/HTML.md)
 - [JavaScript](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/JavaScript.md)
-- [参考资料](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/.参考资料.md)
-- [枚举](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/枚举.md)
+- [资料链接](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/.参考资料.md)
+- [相关知识](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/枚举.md)
 
 
 ### Professional JavaScript for Web
