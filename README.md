@@ -17,10 +17,12 @@
 
 ## Project Structure
 
-- [DataStructure](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/DataStructure)
-- [Algorithm](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm)
 - [Interview](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Interview)
 - [Summary](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Summary)
+- [ProfessionalJavaScriptForWeb](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/ProfessionalJavaScriptForWeb/)
+- [CSS:TheDefinitiveGuide](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/CSS:TheDefinitiveGuide/)
+- [DataStructure](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/DataStructure)
+- [Algorithm](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm)
 - [README](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/README.md)
 
 ### Interview
@@ -43,25 +45,6 @@
 - [枚举](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/枚举.md)
 - [相关知识](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/相关知识.md)
 
-### Data Structure
-
-阅读的是《数据结构》(C语言版)，大概总结了一下所有的数据结构内容，并且用JavaScript实现了一下。 准备时间仓促。难免有许多不详实准确的地方。
-
-- [查找](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《查找》.md)
-- [串](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《串》.md)
-- [内部排序](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《内部排序》.md)
-- [树和二叉树](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《树和二叉树》.md)
-- [线性表](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《线性表》.md)
-- [栈和队列](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《栈和队列》.md)
-
-### Algorithm
-
-算法部分，因为时间比较赶，所以并没有什么积累，之后会持续更新。
-
-- [《剑指offer》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/《剑指offer》)
-- [《编程之美》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/《编程之美》)
--  [算法题目](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/算法题目)
-
 
 ### Professional JavaScript for Web
 
@@ -83,3 +66,22 @@
 《CSS权威指南》
 
 - [浮动和定位](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/CSS:TheDefinitiveGuide/《浮动和定位》.md)
+
+### Data Structure
+
+阅读的是《数据结构》(C语言版)，大概总结了一下所有的数据结构内容，并且用JavaScript实现了一下。 准备时间仓促。难免有许多不详实准确的地方。
+
+- [查找](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《查找》.md)
+- [串](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《串》.md)
+- [内部排序](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《内部排序》.md)
+- [树和二叉树](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《树和二叉树》.md)
+- [线性表](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《线性表》.md)
+- [栈和队列](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《栈和队列》.md)
+
+### Algorithm
+
+算法部分，因为时间比较赶，所以并没有什么积累，之后会持续更新。
+
+- [《剑指offer》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/《剑指offer》)
+- [《编程之美》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/《编程之美》)
+-  [算法题目](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/算法题目)
