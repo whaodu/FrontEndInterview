@@ -15,11 +15,11 @@
 
 ## Project Structure
 
-- [DataStructure](https://github.com/WilsonLiu95/FrontEndInterview/DataStructure)
-- [Algorithm](https://github.com/WilsonLiu95/FrontEndInterview/Algorithm)
-- [Interview](https://github.com/WilsonLiu95/FrontEndInterview/Interview)
-- [Summary](https://github.com/WilsonLiu95/FrontEndInterview/Summary)
-- [README](https://github.com/WilsonLiu95/FrontEndInterview/README.md)
+- [DataStructure](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/DataStructure)
+- [Algorithm](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm)
+- [Interview](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Interview)
+- [Summary](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Summary)
+- [README](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/README.md)
 
 ### Data Structure
 
