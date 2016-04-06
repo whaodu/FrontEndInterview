@@ -15,11 +15,11 @@
 
 ## Project Structure
 
-- Data Structure
-- Algorithm
-- Interview
-- Summary
-- README.md
+- [DataStructure](https://github.com/WilsonLiu95/FrontEndInterview/DataStructure)
+- [Algorithm](https://github.com/WilsonLiu95/FrontEndInterview/Algorithm)
+- [Interview](https://github.com/WilsonLiu95/FrontEndInterview/Interview)
+- [Summary](https://github.com/WilsonLiu95/FrontEndInterview/Summary)
+- [README](https://github.com/WilsonLiu95/FrontEndInterview/README.md)
 
 ### Data Structure
 
@@ -36,13 +36,14 @@
 
 这是算法部分，因为时间比较敢，所以并没有什么积累，之后会持续更新。
 
-- 《剑指offer》
-- 《编程之美》
--  算法题目
+- [《剑指offer》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/《剑指offer》)
+- [《编程之美》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/《编程之美》)
+-  [算法题目](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/算法题目)
 
 ### Interview
 
-- 本部分为个人简历以及面试过程中对方提出的问题列表，希望能够对大家有用。
+本部分为个人简历以及面试过程中对方提出的问题列表，希望能够对大家有用。
+
 - [Resume.md](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/Resume.md)
 - [Alibaba.md](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/Alibaba.md)
 - [Tecent.md](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/Tecent.md)
