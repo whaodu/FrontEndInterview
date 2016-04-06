@@ -43,7 +43,6 @@
 - [JavaScript](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/JavaScript.md)
 - [参考资料](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/.参考资料.md)
 - [枚举](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/枚举.md)
-- [相关知识](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/相关知识.md)
 
 
 ### Professional JavaScript for Web
