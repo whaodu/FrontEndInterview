@@ -9,7 +9,8 @@
 
 近来，渐渐体会到这句话的正确性。
 
-本项目是我在2016年准备暑期实习面试过程中总结积累的一些材料，分享出来希望能够帮到大家。 拿到offer了，终于有时间放慢脚步，会进一步把前端体系铺展开来钻研。
+本项目是我在2016年准备暑期实习面试过程中总结积累的一些材料，分享出来希望能够帮到大家。
+同时，本项目将持续更新作为自己这个学期扎实前端相关基础知识的输出项目。
 
 此处开始埋坑，希望能够全部填上。
 
@@ -42,8 +43,9 @@
 
 ### Interview
 
-本部分为个人简历以及面试过程中对方提出的问题列表，希望能够对大家有用。
+本部分为个人简历以及面试过程中对方提出的问题列表，其中《面试个人心得篇》为自己的面试心得总结，希望能够有点帮助。
 
+- [《面试个人心得篇》](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/《面试个人心得篇》.md)
 - [Resume.md](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/Resume.md)
 - [Alibaba.md](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/Alibaba.md)
 - [Tecent.md](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/Tecent.md)
