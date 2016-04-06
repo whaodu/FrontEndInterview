@@ -22,25 +22,6 @@
 - [Summary](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Summary)
 - [README](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/README.md)
 
-### Data Structure
-
-阅读的是《数据结构》(C语言版)，大概总结了一下所有的数据结构内容，并且用JavaScript实现了一下。 准备时间仓促。难免有许多不详实准确的地方。
-
-- [查找](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《查找》.md)
-- [串](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《串》.md)
-- [内部排序](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《内部排序》.md)
-- [树和二叉树](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《树和二叉树》.md)
-- [线性表](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《线性表》.md)
-- [栈和队列](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《栈和队列》.md)
-
-### Algorithm
-
-这是算法部分，因为时间比较敢，所以并没有什么积累，之后会持续更新。
-
-- [《剑指offer》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/《剑指offer》)
-- [《编程之美》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/《编程之美》)
--  [算法题目](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/算法题目)
-
 ### Interview
 
 本部分为个人简历以及面试过程中对方提出的问题列表，其中《面试个人心得篇》为自己的面试心得总结，希望能够有点帮助。
@@ -61,7 +42,37 @@
 - [枚举](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/枚举.md)
 - [相关知识](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Summary/相关知识.md)
 
-### Professional JavaScript for Web
-《JavaScript高级程序设计》俗称红宝书。
+### Data Structure
 
-- [《》]()
+阅读的是《数据结构》(C语言版)，大概总结了一下所有的数据结构内容，并且用JavaScript实现了一下。 准备时间仓促。难免有许多不详实准确的地方。
+
+- [查找](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《查找》.md)
+- [串](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《串》.md)
+- [内部排序](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《内部排序》.md)
+- [树和二叉树](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《树和二叉树》.md)
+- [线性表](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《线性表》.md)
+- [栈和队列](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/DataStructure/《栈和队列》.md)
+
+### Algorithm
+
+算法部分，因为时间比较赶，所以并没有什么积累，之后会持续更新。
+
+- [《剑指offer》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/《剑指offer》)
+- [《编程之美》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/《编程之美》)
+-  [算法题目](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/算法题目)
+
+
+### Professional JavaScript for Web
+
+《JavaScript高级程序设计》俗称红宝书，持续更新。
+
+- [《表单脚本》](https://github.com/WilsonLiu95/FrontEndInterview/《表单脚本》.md)
+- [《高级技巧》](https://github.com/WilsonLiu95/FrontEndInterview/《高级技巧》.md)
+- [《函数表达式》](https://github.com/WilsonLiu95/FrontEndInterview/《函数表达式》.md)
+- [《面对对象的程序设计》](https://github.com/WilsonLiu95/FrontEndInterview/《面对对象的程序设计》.md)
+- [《事件》](https://github.com/WilsonLiu95/FrontEndInterview/《事件》.md)
+- [《最佳实践》](https://github.com/WilsonLiu95/FrontEndInterview/《最佳实践》.md)
+- [《BOM》](https://github.com/WilsonLiu95/FrontEndInterview/《BOM》.md)
+- [《DOM》](https://github.com/WilsonLiu95/FrontEndInterview/《DOM》.md)
+- [《DOM2》](https://github.com/WilsonLiu95/FrontEndInterview/《DOM2》.md)
+- [《DOM扩展》](https://github.com/WilsonLiu95/FrontEndInterview/《DOM扩展》.md)
