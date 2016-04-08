@@ -27,11 +27,10 @@
 
 ### Interview
 
-本部分为个人简历以及面试过程中对方提出的问题列表，其中《面试个人心得篇》为自己的面试心得总结，希望能够有点帮助。
--
-[Resume.md](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/Resume.md)
-- [InterviewQuestion](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/InterviewQuestion/)
-- [InterviewSummary](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/InterviewSummary/)
+本部分为个人简历以及面试过程中对方提出的问题列表。
+- [Resume.md](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/Resume.md)
+- [Tencent](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/Tencent.md)
+- [Alibaba](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/Alibaba.md)
 - [面试流程化](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/《面试流程化》.md)
 
 
@@ -82,6 +81,6 @@
 
 算法部分，因为时间比较赶，所以并没有什么积累，之后会持续更新。
 
-- [《剑指offer》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/《剑指offer》)
+- [《剑指offer》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/《剑指offer》)
 - [《编程之美》](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/《编程之美》)
 -  [算法题目](https://github.com/WilsonLiu95/FrontEndInterview/tree/master/Algorithm/算法题目)
