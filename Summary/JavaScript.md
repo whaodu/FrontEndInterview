@@ -33,7 +33,7 @@ html对象：Document，Element，Attribute，Event
 13. call、apply、callee 孰知应用
 [js apply详解](http://blog.csdn.net/myhahaxiao/article/details/6952321)
 [javascript中callee与caller的用法和应用场景](http://www.jb51.net/article/25561.htm)
-14. 跨越实现方法  
+14. 跨域实现方法  
 [详解js跨域问题](https://segmentfault.com/a/1190000000718840)
 15. 事件监听、回调、发布订阅模式、promise实现
 [javascript实现异步的四种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
