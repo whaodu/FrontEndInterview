@@ -12,8 +12,8 @@
 本项目是我在2016年准备暑期实习面试过程中总结积累的一些材料，分享出来希望能够帮到大家。
 
 ## 目录
-- [Resume.md](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/Resume.md)
-- [前端面试总结帖](https://github.com/WilsonLiu95/FrontEndInterview/前端面试总结帖.md)
-- [Tencent](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/Tencent.md)
-- [面试流程化](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Interview/《面试流程化》.md)
-- [vagor](https://github.com/WilsonLiu95/FrontEndInterview/vagor.md)
+- [Resume.md](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Resume.md)
+- [前端面试总结帖](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/前端面试总结帖.md)
+- [Tencent](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/Tencent.md)
+- [面试流程化](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/《面试流程化》.md)
+- [vagor](https://github.com/WilsonLiu95/FrontEndInterview/blob/master/vagor.md)
